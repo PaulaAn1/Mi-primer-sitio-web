@@ -1,0 +1,41 @@
+* {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(192, 192, 192);
+    padding: auto;
+    align-items: center;
+
+}
+
+h1 {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: aliceblue;
+    font-size: 100px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+p {
+    background-color: aliceblue;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+img {
+    width: 60%;
+    height: 80%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+video {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 50px;
+}
